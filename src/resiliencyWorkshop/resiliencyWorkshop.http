@@ -1,0 +1,11 @@
+@resiliencyWorkshop_HostAddress = http://localhost:5049
+
+GET {{resiliencyWorkshop_HostAddress}}/v1/resiliency/
+Accept: application/json
+
+###
+
+GET {{resiliencyWorkshop_HostAddress}}/v2/resiliency/
+Accept: application/json
+
+###
