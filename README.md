@@ -24,7 +24,7 @@ This application demonstrates how to implement resilient HTTP requests using Pol
 
 ## Prerequisites
 
-- .NET 6 or later
+- .NET 9
 - Polly NuGet packages:
   ```bash
   dotnet add package Polly
